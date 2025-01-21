@@ -1,1 +1,0 @@
-var json_TaylorMarkAlexanderPlatte_86 = {"type":"FeatureCollection","name":"TaylorMarkAlexanderPlatte_86","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

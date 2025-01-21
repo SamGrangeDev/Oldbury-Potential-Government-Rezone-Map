@@ -1,1 +1,0 @@
-var json_LamNsuongLamHhoa_125 = {"type":"FeatureCollection","name":"LamNsuongLamHhoa_125","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

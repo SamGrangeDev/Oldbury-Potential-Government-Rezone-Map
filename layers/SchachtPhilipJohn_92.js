@@ -1,1 +1,0 @@
-var json_SchachtPhilipJohn_92 = {"type":"FeatureCollection","name":"SchachtPhilipJohn_92","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
