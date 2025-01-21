@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_PoultryFarmBuffer_28 = function(feature, resolution){
+var style_PoultryfarmBuffer_28 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
