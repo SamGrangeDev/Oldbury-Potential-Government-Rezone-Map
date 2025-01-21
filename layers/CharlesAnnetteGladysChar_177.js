@@ -1,0 +1,1 @@
+var json_CharlesAnnetteGladysChar_177 = {"type":"FeatureCollection","name":"CharlesAnnetteGladysChar_177","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
